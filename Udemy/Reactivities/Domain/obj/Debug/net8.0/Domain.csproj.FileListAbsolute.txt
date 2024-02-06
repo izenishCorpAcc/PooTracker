@@ -1,0 +1,12 @@
+D:\Private\PooTracker\Udemy\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Private\PooTracker\Udemy\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+D:\Private\PooTracker\Udemy\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Private\PooTracker\Udemy\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll

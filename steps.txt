@@ -1,0 +1,11 @@
+dotnet --info
+to view all the sdks and dotnet versions
+
+chmod +x the project.sh
+
+
+run the restore task for windows by pasting in the powershell
+
+
+go inside API folder and run
+ dotnet run

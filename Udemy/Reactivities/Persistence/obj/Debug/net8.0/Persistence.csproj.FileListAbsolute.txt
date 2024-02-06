@@ -1,0 +1,16 @@
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Private\PooTracker\Udemy\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
